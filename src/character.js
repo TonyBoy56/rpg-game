@@ -17,3 +17,17 @@ export const changeState = (prop) => {
     });
   };
 };
+
+// export const randomGenerator = () => {
+//   let randomNumber = Math.floor(Math.random() * Math.floor(10));
+//   return randomNumber;
+// };
+
+// export gameWin = () => {
+//  if p1starthealth === 0
+// }  return "Player 2 wins!"
+//  else {
+// return "Player 1 wins!"
+// }
+
+// ^^ THIS WILL PROBABLY GO IN CLICK ^^
